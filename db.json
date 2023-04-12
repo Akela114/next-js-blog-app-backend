@@ -3,32 +3,44 @@
     {
       "id": 1,
       "name": "Jason Francisco",
-      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "profession": "Author and Journalist",
+      "description": "I'm Jason Francisco, a prolific author and journalist who prides myself on insightful reporting and engaging writing. My books and articles cover a wide range of topics, including politics, culture, and technology, and I enjoy distilling complex ideas into clear and compelling prose."
     },
     {
       "id": 2,
       "name": "Tracey Wilson",
-      "avatar": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+      "avatar": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "profession": "Poet and Creative Writer",
+      "description": "I'm Tracey Wilson, a gifted poet and creative writer whose work delves into the depths of human emotion. My poetry is characterized by its lyrical style and emotional resonance, and I'm grateful for the praise it's received from critics and readers alike."
     },
     {
       "id": 3,
       "name": "Elizabeth Slavin",
-      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=761&q=80"
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=761&q=80",
+      "profession": "Novelist and Screenwriter",
+      "description": "I'm Elizabeth Slavin, a celebrated novelist and screenwriter known for my powerful storytelling and nuanced character development. My stories often tackle complex social and cultural issues, and I take pride in my ability to explore these themes with sensitivity and depth."
     },
     {
       "id": 4,
       "name": "Ernie Smith",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "profession": "Business Writer and Analyst",
+      "description": "I'm Ernie Smith, a seasoned business writer and analyst with a passion for financial markets. My writing is characterized by its clarity and insightfulness, and I enjoy making complex financial concepts accessible to a wider audience."
     },
     {
       "id": 5,
       "name": "Eric Smith",
-      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "profession": "Science Writer and Educator",
+      "description": "I'm Eric Smith, a science writer and educator who is passionate about sharing the wonders of science with people of all ages and backgrounds. My books and articles cover a wide range of topics, from astronomy to genetics, and I take pride in my ability to explain complex scientific concepts in a clear and engaging way."
     },
     {
       "id": 6,
       "name": "Margaret Warren",
-      "avatar": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+      "avatar": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "profession": "Historical Writer and Researcher",
+      "description": "I'm Margaret Warren, a historical writer and researcher who loves uncovering the hidden stories and forgotten figures of the past. My writing covers a wide range of historical topics, from ancient civilizations to modern conflicts, and I strive to bring history to life for modern audiences with meticulous attention to detail."
     }
   ],
   "articles": [
